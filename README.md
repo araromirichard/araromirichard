@@ -1,6 +1,4 @@
-### Hi there 👋
-I am Araromi Richard
-Here are some ideas to get you started:
+### Hi there 👋 I am Araromi Richard
 
 - 🔭 I’m currently working on some freelance projects
 - 🌱 I’m currently learning  GoLang, Docker, Kubernetes, AWS and Cloud technologies.
