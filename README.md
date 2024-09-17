@@ -4,8 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some freelance projects
 - 🌱 I’m currently learning  GoLang, Docker, Kubernetes, AWS and Cloud technologies.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with understanding Go concurrency, Microservices achitecture and gRPC
 - 💬 Ask me about Javascript, Typescript, Vue, Nuxt, Laravel, Livewire, Backend and all things software engineering
 - 📫 How to reach me: github_icon twitter_icon gmail_icon linkedIn_icon
 - ⚡ Fun fact: I love Music and saxophone
